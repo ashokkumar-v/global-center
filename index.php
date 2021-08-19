@@ -9,8 +9,7 @@
 <?php include "header.php";?>
 <div class="slider-portion">
 <div class="slider1">
-    
-	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/GCA-banner.png" alt="banner">
+	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
     <div class="slider-caption animation-edu-5 fadeInLeft">
     <div class="container">
   <!--  <h3>THE BEST EDUCATION</h3>-->
@@ -20,17 +19,28 @@
     </div>
     </div>
     </div>
-    
-	    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/school.jpg" alt="banner">
+
+	  <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
     <div class="slider-caption animation-edu-5 fadeInLeft">
     <div class="container">
     <!--<h3>THE BEST EDUCATION</h3>-->
- 
+    <h1><span>"Lorem Ipsum </span></h1>
+    <h1><span> is simply dummy text of the printing "</span></h1>
+    </div>
+    </div>
+    </div>
+
+    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
+    <div class="slider-caption animation-edu-5 fadeInLeft">
+    <div class="container">
+    <!--<h3>THE BEST EDUCATION</h3>-->
+    <h1><span>"Lorem Ipsum </span></h1>
+    <h1><span> is simply dummy text of the printing "</span></h1>
     </div>
     </div>
     </div>
 	
-    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/school.jpg" alt="banner">
+    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.jpg" alt="banner">
     <div class="slider-caption animation-edu-5 fadeInLeft">
     <div class="container">
     <!--<h3>THE BEST EDUCATION</h3>-->
