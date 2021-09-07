@@ -1,4 +1,4 @@
-<title>Global Tamil School</title>
+<title>Global Center of Arts | Indian Performing Arts</title>
 <link rel="icon" type="image/png" href="img/fav_icon.png" />
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" rel="stylesheet">

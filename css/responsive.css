@@ -93,7 +93,7 @@ header {
 
 @media (max-width:768px) {
 .social-header{display:none;}
-.mob-social-header{font:14px/40px 'Dosis';background:#720606;}
+.mob-social-header{font:14px/40px 'Dosis';background:rgba(245,5,121,1);}
 .phone-num:before{content:url(../images/mob-phone.png);padding-right:10px;float:left;}
 .folow-us{color:#FFF; margin:-2px 0;}
 .sel-program p.txtcentr{ text-align:center; padding:5px 0; font-weight:600; font-size:16px; }
@@ -110,6 +110,7 @@ header {
 .social-headers .downloads a{text-decoration:none;font:12px/40px 'Dosis';color:#151515; text-align:center;}
 .menu-part {
     background: #fff;
+    background-image: url("../img/backgrounds/inner_header_bg.svg");
 }
 .navbar-inverse .navbar-toggle {
     margin-top: 12px;
@@ -162,7 +163,7 @@ header {
     float: none;
     width: auto;
     margin-top: 0;
-     background-color:#720606; 
+     background-color:rgba(245,5,121,1); 
     border: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -258,6 +259,7 @@ nav.navbar.navbar-inverse.no-pad-sd.menu-smal-dev {
 		min-height: 105px;
 	}
 	.wisinsli h1{
+        font-size: 38px;
 		margin-top: 40px;
 	}
 	.about-photo-img{
@@ -368,7 +370,7 @@ margin-bottom: 10px;
 @media (max-width:460px) {
 .wth-smal{width:100%;padding-left:15%;}
 
-.wisewoods-content {
+.page-content {
     padding: 20px 0px 20px 0px;
 }
 .news-heading h5 {
@@ -447,7 +449,7 @@ ul.fees-instr-deta {
     top: 24%;
     outline: 0;
 }
-.logo-wisewoods img {
+.logo-gts img {
     width: 100%;
 }
 ul.fees-instr-deta li span {
