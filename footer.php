@@ -5,7 +5,7 @@
       <img src="img/GCA-logo.png" alt="logo" style="width:100%;"/><br>
       <div class="social">
         <a href="https://www.facebook.com/globalcenterofarts" target="_blank"><img src="img/facebook.png" alt="social"/></a>
-        <a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://www.youtube.com/channel/UCZJnwgnY6lMC57rIQScK63w" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
       </div>
     </div>
   </div>
@@ -40,10 +40,11 @@
     <div class="quick-links">
       <h4>Contact Us</h4>
       <div class="address-fotter">
-        <p>73 Brecon Lodge,<br>
-        3 Wintergreen Boulevard 
-        West Drayton<br>
-        London - UB7 9FR</p>
+        <p>58, Narasingapuram Colony,<br>
+        Sengundram Road,<br>
+        Singaperumal Kovil Way<br>
+        Maraimalainagar, Kanchipuram<br>
+        Tamilnadu, India - 603204</p>
       </div>
       <div class="phone-fotter">
         <p>+44 74597 13276, +44 74382 17913</p>

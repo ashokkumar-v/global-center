@@ -9,7 +9,7 @@
 <?php include "header.php";?>
 <div class="slider-portion wisinsli">
   <div class="slider1">
-    <div class="slide animation-edu-3 fadeInDown"> <img src="img/contact-banner.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/2.jpg" alt="banner">
     </div>
   </div>
 </div>
@@ -52,17 +52,17 @@
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
-        <p>7/A8 Kadalaiyur Main Road<br>
-        Kovilpatti - 628501<br>
-        Thoothukudi District,<br>
-        Tamilnadu, India</p>
+        <p>58, Narasingapuram Colony,<br>
+        Sengundram Road,<br>
+        Singaperumal Kovil Way, Maraimalainagar<br>
+        Kanchipuram, Tamilnadu<br>
+        India - 603204</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
-        <p>Principal Mobile No: +44 74597 13276</p>
-        <p>Mobile No:   </p>
+        <p>Mobile No: +91 95660 44376</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">
@@ -75,8 +75,8 @@
   </div>
 </div>
 <div class="embed-container  maps bg-map" id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4578550260085!2d-0.4635366847998135!3d51.50481561871403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487672053ddf6201%3A0xe19e8466e6047e34!2s3%20Wintergreen%20Blvd%2C%20West%20Drayton%20UB7%209FQ%2C%20UK!5e0!3m2!1sen!2sin!4v1628261278265!5m2!1sen!2sin" width="100%" class="map-heth" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4578550260085!2d-0.4635366847998135!3d51.50481561871403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487672053ddf6201%3A0xe19e8466e6047e34!2s3%20Wintergreen%20Blvd%2C%20West%20Drayton%20UB7%209FQ%2C%20UK!5e0!3m2!1sen!2sin!4v1628261278265!5m2!1sen!2sin" width="100%" class="map-heth" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11139.429745103893!2d80.01918869879965!3d12.768931402115193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f9e913d56419%3A0x724474b4711d2a2e!2sMaraimalai%20Nagar%2C%20Tamil%20Nadu%2C%20India!5e0!3m2!1sen!2suk!4v1631405500307!5m2!1sen!2suk" width="100%" class="map-heth" frameborder="0" style="border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
 
 

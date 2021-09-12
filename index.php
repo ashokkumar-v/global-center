@@ -9,7 +9,7 @@
 <?php include "header.php";?>
 <div class="slider-portion">
   <div div class="slider1">
-    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/6.jpg" alt="banner">
+    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
@@ -19,27 +19,36 @@
         </div>
       </div>
     </div>
-	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
+	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/2.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
-          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
-          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a>
+          <!-- <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1> -->
+          <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
         </div>
       </div>
     </div>
 	
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.png" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. நவீனத் </span></h1>
-          <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1>
+          <!-- <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. நவீனத் </span></h1>
+          <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1> -->
         </div>
       </div>
     </div>
-
+    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/4.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+           <!-- <h3>THE BEST EDUCATION</h3> -->
+          <!-- <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -189,10 +198,10 @@
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
         <h5><span>VIEW</span><br>
-        OUR VIDEO</h5>
+        OUR INAUGURATION - 10/09/2021</h5>
       </div>
       <div class="video-img">
-        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F161649862440406%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/holzTx7LcvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>

@@ -239,7 +239,7 @@ margin-left:0px;
     position: absolute;
     background: none;
 }
-.apply-for-admission{background:#4e0808;padding:30px 0px 30px 0px;}
+.apply-for-admission{background:rgb(91, 3, 45);padding:30px 0px 30px 0px;}
 .admi-head h4{color:#fff;}
 .admi-head h4:before{content:url(../images/admission-before.png);}
 .admi-head h4:after{content:url(../images/admission-before.png);}
@@ -401,7 +401,7 @@ ul.quick-text li a {
     content: url(../images/location-footer.png);
     float: left;
     padding-right: 15px;
-    padding-bottom: 25px;
+    padding-bottom: 80px;
 }
 .phone-fotter:before {
     content: url(../images/phone-footer.png);
@@ -517,20 +517,20 @@ input.form-control1.submit1.btm-ntm:hover{background:rgba(245,5,121,1);color:#ff
 .border-cont-rightco-wd:after {
     content: 'WEST DRAYTON, UK';right: -122px;
 }
-.border-cont-rightco-ha:after {
-    content: 'HARROW, UK';right: -92px;
+.border-cont-rightco-tp:after {
+    content: 'THIRUPORUR';right: -92px;
 } 
-.border-cont-rightco-in:after {
-    content: 'INDIA';right: -60px;
+.border-cont-rightco-ch:after {
+    content: 'CHENGELPET & KANCHIPURAM';right: -170px;
 } 
-.border-cont-rightco-us:after {
-    content: 'SEATTLE, USA';right: -100px;
+.border-cont-rightco-cg:after {
+    content: 'KRISHNAGIRI';right: -92px;
 } 
 .border-cont-rightco:after {
     content: 'TEACHER';right: -100px;
 }
 .border-cont-rightco-ad:after {
-    content: 'ADVISOR';right: -100px;
+    content: 'ADVISOR';right: -75px;
 }
 .border-cont-br p{padding-right:8%; font:18px/30px 'Dosis';text-align:justify;}  
 

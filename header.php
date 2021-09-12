@@ -24,7 +24,7 @@
     <div class="col-md-4 col-sm-4">
       <div class="folow-us">
         <a href="https://www.facebook.com/globalcenterofarts" target="_blank"><img src="images/facebook.png" alt="social"/></a>
-        <a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://www.youtube.com/channel/UCZJnwgnY6lMC57rIQScK63w" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@
       <div class="folow-us">
       Follow us on :
         <a href="https://www.facebook.com/globalcenterofarts" target="_blank"><img src="images/facebook.png" alt="social"/></a>
-        <a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://www.youtube.com/channel/UCZJnwgnY6lMC57rIQScK63w" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
       </div>
     </div>
     <div class="col-md-9 col-sm-9 no-pad-menu">

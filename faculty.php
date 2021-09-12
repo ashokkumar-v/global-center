@@ -48,7 +48,7 @@
     <div class="study-bg ani">
       <div class="name-profile"> <h2>Isaikalaimani. Mrs. Udhaya Bhoopathy<span>Assistant Director, GCA</span></h2> </div>
       <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
+        <div class="border-cont-br border-cont-rightco-ch">
           <img src="img/people/Photo_UdhayaBoopathy.png" alt="Teacher" class="img-responsive"/>
           <p></p>
           <div class="clearfix"></div>
@@ -59,7 +59,7 @@
     <div class="study-bg ani">
       <div class="name-profile"> <h2>Dr. Mr. Jayaveerapandian<span>Assistant Director, GCA</span></h2> </div>
       <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
+        <div class="border-cont-br border-cont-rightco-cg">
           <img src="img/people/Photo_Jay.png" alt="Teacher" class="img-responsive"/>
           <p></p>
           <div class="clearfix"></div>
@@ -70,7 +70,7 @@
     <div class="study-bg ani">
       <div class="name-profile"> <h2>Mr. Gerald James<span>Teacher, Keyboard & Guitar</span></h2> </div>
       <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
+        <div class="border-cont-br border-cont-rightco-tp">
           <img src="img/unavailable.jpg" alt="Teacher" class="img-responsive"/>
           <p></p>
           <div class="clearfix"></div>
@@ -85,8 +85,8 @@
 <div class="page-content">
   <div class="container">
     <!-- TODO: Remove display: none style below, to enable more content -->
-    <div class="sel-programs" style="display:none">
-      <p><b class="color">Our Staff Details </b> </p>
+    <div class="sel-programs">
+      <p><b class="color">Our Members</b> </p>
 
       <div class="table-responsive">
         <table class="table table-bordered">

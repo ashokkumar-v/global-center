@@ -21,16 +21,16 @@
         <div class="heading"></div>
         <div class="campus-wtdh">
             <div class="block-big-img">
-                <img src="img/school.jpg" alt="school" class="img-responsive"/>
+                <img src="img/homecarousel/2.jpg" alt="school" class="img-responsive"/>
                 <h1 style="text-align: center;">Careers with us</h1>
-                <p>The Global Center of Arts is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GTS encourages eligile teachers of all fine arts to seek employment with us.</p>
+                <p>The Global Center of Arts is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GCA encourages eligile teachers of all fine arts to seek employment with us.</p>
             </div>
             <div class="clearfix"></div>
             <div class="col-md-6  col-sm-6 no-pad-school">
                 <h1>Current Opportunities</h1>
                 <div class="school-blk">
-                    <p><span>Tamil Language Teachers (Online)</span></p>
-                    <p><span>Teachers for spoken Tamil (Online)</span></p>
+                    <p><span>Carnatic Vocal Teachers</span></p>
+                    <p><span>Keyboard Teachers</span></p>
                     <p><span>Web Designers</span></p>
                 </div>
             </div>
