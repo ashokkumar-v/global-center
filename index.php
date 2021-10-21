@@ -49,6 +49,26 @@
         </div>
       </div>
     </div>
+    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/5.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+           <!-- <h3>THE BEST EDUCATION</h3> -->
+          <!-- <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
+        </div>
+      </div>
+    </div>
+    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/6.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+           <!-- <h3>THE BEST EDUCATION</h3> -->
+          <!-- <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -59,8 +79,8 @@
       <h1><span>Global Center of Arts</span></h1>
     </div>
     <div class="welcome-content ani">
-      <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
-      <p>Apart from Language classes we also provide online classes for the indian performing arts like Bharathanatyam, Violin, Tabla, Veenai, Carnatic vocals, etc., </p>
+      <p>We are an institution for Indian performing arts and an examination center for the fine arts.</p>
+      <p>We also provide classes for the indian performing arts like Bharathanatyam, Violin, Tabla, Veenai, Carnatic vocals, etc., conducted by our qualified Teachers / Gurus.</p>
       <div class="read-welcome">
         <a href="about-us.php">READMORE</a>
       </div>
@@ -68,39 +88,38 @@
     <div class="clearfix"></div>
     <div id="owl-demo" class="owl-carousel ani">
       <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
+        <img src="img/homeTiles/Syllabus.jpg" alt="img">
         <div class="slide-test"><a href="courses.php">Syllabus</a></div>
       </div>
       <div class="item wise-woods-icon">
-        <img src="images/certificate_medal.jpg" alt="img">
+        <img src="img/homeTiles/Awards.jpg" alt="img">
         <div class="slide-test"><a href="#">Awards</a></div>
       </div>
       <div class="item wise-woods-icon">
-        <img src="images/Teaching_materials.jpg" alt="img">
-        <div class="slide-test"><a href="#">Worksheets</a></div>
+        <img src="img/homeTiles/Recognition.jpg" alt="img">
+        <div class="slide-test"><a href="#">Recognition</a></div>
       </div>
       <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
+        <img src="img/homeTiles/Awards.jpg" alt="img">
         <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
       </div>
       <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
+        <img src="img/homeTiles/Awards.jpg" alt="img">
         <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
       </div>
       <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
+        <img src="img/homeTiles/Awards.jpg" alt="img">
         <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
       </div>
     </div>
   </div>
 </div>
 <div class="clearfix"></div>
-<div class="apply-for-admission ani">
+<!-- <div class="apply-for-admission ani">
   <div class="container">
     <div class="heading admi-head">
       <i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
       <h4>ENQUIRY</h4>
-      <!--<p>Wisewoods admits students based on their performance in the assessment test conducted on scheduled dates.</p>-->
     </div>
     <div class="form-admision">
       <form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="send-email.php">
@@ -143,7 +162,7 @@
       </form>	
     </div>
   </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <div class="wise-woods-news">
   <div class="container">
@@ -151,7 +170,7 @@
       <div class="news-heading">
         <h5><span>Academic Year 2021-2022</h5>
       </div>
-      <p>Examination for the academic year 2020-2021 is completed successfully and 100% online. Thanks for the students & the parents. Online classes for the Academic year 2021-2022 will start from 7rd September 2021.</p>
+      <p>Accepting registration & enrollment for the grade examinations</p>
       <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
@@ -163,26 +182,26 @@
       <!--Daete start-->
       <div class="date-wise">
         <div class="date-time">
-          <p>22 </p>
+          <p>10 </p>
           <div class="clearfix"></div>
-          <span>Aug</span>
+          <span>Nov</span>
         </div>
         <div class="annual-day"></div>
-        <b>Cut off date to order books for year 2021</b><br>
-        <p>Register for the textbooks for this year. Books will be despatched once registered.</p>
+        <b>Cut off date for receiving registrations for grade examinations</b><br>
+        <p>Kindly register for the grade examinations scheduled for december 2021</p>
       </div>
       <!--Daete end-->
 
       <!--Daete start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>06</p>
+          <p>15</p>
           <div class="clearfix"></div>
-          <span>Sep</span>
+          <span>Dec</span>
         </div>
         <div class="annual-day"></div>
-          <b>Term Starts</b><br>
-          <p>School will reopen from 6th day of September for new batches. </p>
+          <b>Annual Examinations</b><br>
+          <p>Examinations for all the performing arts will be conducted online & in center</p>
       </div>
 
       <div class="clearfix"></div>
@@ -201,14 +220,14 @@
         OUR INAUGURATION - 10/09/2021</h5>
       </div>
       <div class="video-img">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/holzTx7LcvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/x1PMY7oNWsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>
                   
   <div class="clearfix"></div>
 
-  <div id="portfolio" class="clearfix">                  
+  <!-- <div id="portfolio" class="clearfix">                  
     <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
       <div class="image-wrapper overlay-fade-in gallery-btm">
         <a title="Global Center of Arts" class="gts-gallery" data-fancybox-group="portfolio-1" href="images/Students_writing.jpg">
@@ -249,7 +268,7 @@
         </a>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="clearfix"></div>
 </div>
 

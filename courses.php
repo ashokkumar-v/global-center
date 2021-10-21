@@ -26,10 +26,10 @@
   <li>Indian Carnatic Performance</li>
   <li>Indian Percussion Instruments</li>
 </ul>
-<h3><a href="https://www.griffincollege.org.uk/our-syllabuses">Detailed Information</a></h3>
-<h3><a href="https://www.griffincollege.org.uk/ucas/">UCAS Points</a></h3>
-<h3><a href="https://www.griffincollege.org.uk/our-exams/">Examinations</a></h3>
-<h3><a href="https://www.griffincollege.org.uk/exam-dates/">Exam Dates</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/our-syllabuses" target="_blank">Syllabus</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/ucas/" target="_blank">UCAS Points</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/our-exams/" target="_blank">Examinations</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/exam-dates/" target="_blank">Exam Dates</a></h3>
 
 </div>
 

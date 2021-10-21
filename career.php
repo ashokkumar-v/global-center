@@ -23,7 +23,7 @@
             <div class="block-big-img">
                 <img src="img/homecarousel/2.jpg" alt="school" class="img-responsive"/>
                 <h1 style="text-align: center;">Careers with us</h1>
-                <p>The Global Center of Arts is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GCA encourages eligile teachers of all fine arts to seek employment with us.</p>
+                <p>The Global Center of Arts is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GCA encourages eligible teachers of all fine arts to seek employment with us.</p>
             </div>
             <div class="clearfix"></div>
             <div class="col-md-6  col-sm-6 no-pad-school">

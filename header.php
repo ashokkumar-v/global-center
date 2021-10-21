@@ -17,7 +17,7 @@
         <a href="downloads.html">Downloads</a>
         </div>-->
         <div class="phone-num">
-        +44 74597 13276, +44 74382 17913
+        +91 95660 44376, +91-86829 01099 (whatsapp)
         </div>
       </div>
     </div>
@@ -51,7 +51,7 @@
 
         <div class="phone-num">
           <i class="fa fa-phone" aria-hidden="true"></i>
-        +44 74597 13276, +44 74382 17913
+        +91 95660 44376, +91-86829 01099 (whatsapp)
         </div>
         <div class="emailaddress">
           <i class="fa fa-envelope" aria-hidden="true"></i>

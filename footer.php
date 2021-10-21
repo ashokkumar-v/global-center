@@ -47,11 +47,14 @@
         Tamilnadu, India - 603204</p>
       </div>
       <div class="phone-fotter">
-        <p>+44 74597 13276, +44 74382 17913</p>
-        <div class="emailaddress">
+        <p>+91 95660 44376</p>
+      </div>
+      <div class="phone-fotter">
+        <p>(Whatsapp) +91-86829 01099</p>
+      </div>
+      <div class="emailaddress">
           <i class="fa fa-envelope" aria-hidden="true"></i>
           <a href="mailto:admin@globalcenterofarts.com">admin@globalcenterofarts.com</a>
-        </div>
       </div>
     </div>
   </div>

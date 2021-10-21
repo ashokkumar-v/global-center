@@ -9,13 +9,13 @@
 <?php include "header.php";?>
 <div class="slider-portion wisinsli">
   <div class="slider1">
-    <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/2.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/2.jpg" width="500" alt="banner">
     </div>
   </div>
 </div>
 
 <div class="clearfix"></div>
-<div class="container">
+<!-- <div class="container">
   <div class="contact-form">
     <div class="heading ani">
       <h1>FEEDBACK <span>FORM</span></h1>
@@ -45,7 +45,7 @@
       </form>	
     </div>
   </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <div class="container">
   <div class="contact-information">
@@ -63,6 +63,7 @@
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
         <p>Mobile No: +91 95660 44376</p>
+        <p>(Whatsapp) +91-86829 01099</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">

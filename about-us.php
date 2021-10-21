@@ -27,17 +27,17 @@
       </div>
       <div class="col-md-12 ani">
       <div class="about-content">
-        <p>We are the first online Tamil school in UK with more number of students from all around the world learning Tamil language. We carefully chose the syllabus that helps students in their growth. We provide the students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
-        <p>We also take classes for the Indian performing arts & provide opportunity to the students to getting certification from International examination board.</p>
-        <p class="emp">"தேமதுரத் தமிழோசை உலகமெல்லாம் பரவும் வகை செய்தல் வேண்டும்."</p>
+        <p>We are an institution to learn indian performing arts & an examination center for Griffin College London (International Examination Board) for the Tamilnadu (South)</p>
+        <p>We take classes for various Indian performing arts & provide opportunity to the students to get a recognized certification for various grades.</p>
+        <p class="emp">"Please contact us to know more..."</p>
         <h1>MISSION</h1>
-        <p>We believe that a happy child is a successful one. We are committed to providing a positive, safe and stimulating environment for children to learn, where all the effort and knowledge are valued. We intend that all children should enjoy their learning, achieve their potential and become independent life-long learners.</p>
-        <p>To establish trust with the parents on our teaching and teaching meathods.</p>
-        <p>To create a togetherness among our teachers to make them feel they are Global Center of Arts.</p>
+        <p>Our main objective is to recognize the talents in various indian performing arts & to get them certified from a recognized body.</p>
+        <p>We work towards everyone to get a quality & progressive improvements in what they learn. And to make them go beyond the boundary.</p>
+        <p>Also we want learning arts should open up opportunities in other streams as well that are available internationally.</p>
 
         <h1>VISION</h1>
-        <p>To become the best online school in the world with a very good quality of education.</p>
-        <p class="emp">"யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்."</p>
+        <p>Our vision is to be a best organisation that learners trust & continue progress in their aspirations globally</p>
+        <p class="emp">"Every talent has its own key to success"</p>
         <div class="col-md-6  col-sm-6 no-pad-school">
           <br>
           <br>
