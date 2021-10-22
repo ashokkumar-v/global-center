@@ -515,7 +515,7 @@ input.form-control1.submit1.btm-ntm:hover{background:rgba(245,5,121,1);color:#ff
     top: 43%;
 }
 .border-cont-rightco-wd:after {
-    content: 'WEST DRAYTON, UK';right: -122px;
+    content: 'LONDON, UK';right: -92px;
 }
 .border-cont-rightco-tp:after {
     content: 'THIRUPORUR';right: -92px;
@@ -527,7 +527,7 @@ input.form-control1.submit1.btm-ntm:hover{background:rgba(245,5,121,1);color:#ff
     content: 'KRISHNAGIRI';right: -92px;
 } 
 .border-cont-rightco:after {
-    content: 'TEACHER';right: -100px;
+    content: 'CHENNAI';right: -80px;
 }
 .border-cont-rightco-ad:after {
     content: 'ADVISOR';right: -75px;

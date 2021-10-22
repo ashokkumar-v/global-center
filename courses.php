@@ -22,14 +22,25 @@
 <div class="sel-program">
 <p><b class="color">We</b> follow Griffin College London (International Examination board) syllabus for the fine arts courses. </p>
 <ul>
-  <li>Indian Classical Dance : Bharathanatyam</li>
-  <li>Indian Carnatic Performance</li>
-  <li>Indian Percussion Instruments</li>
+  <img src="img/courses/qualifications.jpg" alt="Qualifications" width="600" class="img-responsive"/>
+  <li>Indian Classical Dance Performance</li>
+  <li>Indian Carnatic Vocal & Instruments Performance</li>
+  <li>Indian Carnatic Percussion Performance</li>
+  <p><a href="https://www.griffincollege.org.uk/our-exam-qualifications/" target="_blank">more info</a></p>
 </ul>
 <h3><a href="https://www.griffincollege.org.uk/our-syllabuses" target="_blank">Syllabus</a></h3>
+<p><a href="https://www.griffincollege.org.uk/our-syllabuses" target="_blank">more info</a></p>
+
 <h3><a href="https://www.griffincollege.org.uk/ucas/" target="_blank">UCAS Points</a></h3>
+<img src="img/courses/ucas.jpg" alt="UCAS Points" width="400" class="img-responsive"/>
+<p><a href="https://www.griffincollege.org.uk/ucas/" target="_blank">more info</a></p>
+
 <h3><a href="https://www.griffincollege.org.uk/our-exams/" target="_blank">Examinations</a></h3>
+<p>(Exam fees are different for India)</p>
+<p><a href="https://www.griffincollege.org.uk/our-exams/" target="_blank">more info</a></p>
+
 <h3><a href="https://www.griffincollege.org.uk/exam-dates/" target="_blank">Exam Dates</a></h3>
+<p><a href="https://www.griffincollege.org.uk/exam-dates/" target="_blank">more info</a></p>
 
 </div>
 

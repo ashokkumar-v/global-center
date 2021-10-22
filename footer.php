@@ -16,7 +16,7 @@
         <ul class="quick-text">
           <li><a href="index.php">Home </a></li>
           <li><a href="about-us.php">About us </a></li>
-          <li><a href="curriculam.php">Online classes & Syllabus </a></li>
+          <li><a href="courses.php">Courses & Syllabus</a></li>
         </ul>
       </div>
       <div class="col-md-6 no-pad-cxs no-pad-cxs">
