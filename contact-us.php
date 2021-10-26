@@ -62,8 +62,9 @@
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
-        <p>Mobile No: +91 95660 44376</p>
-        <p>(Whatsapp) +91-86829 01099</p>
+        <p>+91 95660 44376</p>
+        <i class="fa fa-whatsapp mob_icon" aria-hidden="true"></i>
+        <p>+91-86829 01099</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">

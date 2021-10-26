@@ -95,6 +95,7 @@ header {
 .social-header{display:none;}
 .mob-social-header{font:14px/40px 'Dosis';background:rgba(245,5,121,1);}
 .phone-num:before{content:url(../images/mob-phone.png);padding-right:10px;float:left;}
+.whatsapp:before{content:url(../images/whatsapp.png);padding-right:10px;float:left;}
 .folow-us{color:#FFF; margin:-2px 0;}
 .sel-program p.txtcentr{ text-align:center; padding:5px 0; font-weight:600; font-size:16px; }
 .downloads a{ font-size:12px;}

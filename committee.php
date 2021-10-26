@@ -9,12 +9,12 @@
 <?php include "header.php";?>
 
 <div class="slider-portion wisinsli inner_pg">
-<div class="slider1">
-   <div class="slide animation-edu-3">
-			<h1>Global Center of Arts</h1>
-     </div>
-  </div>
-  </div>
+   <div class="slider1">
+      <div class="slide animation-edu-3">
+         <h1>Global Center of Arts</h1>
+      </div>
+   </div>
+</div>
 
 <div class="clearfix"></div>
 <div class="page-content">
@@ -24,7 +24,7 @@
       </div>
       <!--study bg-->
       <div class="clearfix"></div>
-
+      <div class="row">
       <div class="study-bg ani">
          <div class="name-profile"> <h2>Mrs. Uma Devi Ashok Kumar<span>Founder, Global Center of Arts, UK</span></h2>  </div>
          <div class="col-md-12 no-pad-img border-cont ani">

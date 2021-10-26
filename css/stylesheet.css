@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import './faculty.css';
 /* CSS Document */
 body{font-family: 'Dosis', sans-serif;}
 @font-face {
@@ -409,7 +410,17 @@ ul.quick-text li a {
     padding-right: 10px;
     padding-bottom: 10px;
 }
+.whatsapp-footer:before {
+    content: url(../images/whatsapp.png);
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
 .phone-fotter p {
+    font: 14px/24px 'Dosis';
+    color: #ffffff;
+}
+.whatsapp-footer p {
     font: 14px/24px 'Dosis';
     color: #ffffff;
 }

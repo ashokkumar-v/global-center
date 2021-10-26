@@ -49,11 +49,10 @@
       <div class="phone-fotter">
         <p>+91 95660 44376</p>
       </div>
-      <div class="phone-fotter">
-        <p>(Whatsapp) +91-86829 01099</p>
+      <div class="whatsapp-footer">
+        <p>+91-86829 01099</p>
       </div>
       <div class="emailaddress">
-          <i class="fa fa-envelope" aria-hidden="true"></i>
           <a href="mailto:admin@globalcenterofarts.com">admin@globalcenterofarts.com</a>
       </div>
     </div>

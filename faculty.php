@@ -22,7 +22,88 @@
     </div>
     <!--study bg-->
     <div class="clearfix"></div>
-    <div class="study-bg ani">
+
+    <div class="image-grid">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Jebaraj.jpg" alt="Jebaraj" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Dr. Jebaraj Devadasan</h2>
+            <p class="faculty-title">Advisor</p>
+            <p>Dean - Department of Physics</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Photo_UmaAshok.jpg" alt="Uma" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Uma Devi Ashok Kumar</h2>
+            <p class="faculty-title">Founder & Director</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/BrinthaArun.png" alt="Brintha" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Brintha Arun</h2>
+            <p class="faculty-title">Executive Director</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="page-content">
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Photo_UdhayaBoopathy.png" alt="Udhaya" style="width:100%">
+          <div class="faculty-container">
+            <h4>Isaikalaimani</h4>
+            <h2 class="person-name">Mrs. Udhaya Bhoopathy</h2>
+            <p class="faculty-title">Assistant Director</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Photo_Jay.png" alt="Jay" style="width:100%">
+          <div class="faculty-container">
+            <h4>Yuvakalabarathi, Kalaivalarmani</h4>
+            <h2 class="person-name">Dr. Jayaveerapandian</h2>
+            <p class="faculty-title">Assistant Director</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="page-content">
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/ChristetaRani.jpg" alt="Christita" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Christeta Sagaya Rani</h2>
+            <p class="faculty-title">Teacher - Fine arts</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/GeraldJames.jpg" alt="Gerald" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mr. Gerald James</h2>
+            <p class="faculty-title">Teacher - Keyboard & Guitar</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="study-bg ani">
       <div class="name-profile"> <h2>Dr. Jebaraj Devadasan<br><span>Advisor, Dean - Department of Physics </span></h2> </div>
       <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
         <div class="border-cont-br border-cont-rightco-ad">
@@ -88,12 +169,12 @@
         </div>
       </div>
       <div class="clearfix"></div>
-    </div>
+    </div> -->
   </div>
   <div class="clearfix"></div>
 </div>
 <div class="clearfix"></div>
-<!-- <div class="page-content">
+<div class="page-content">
   <div class="container">
     <div class="sel-programs">
       <p><b class="color">Our Members</b> </p>
@@ -102,53 +183,52 @@
         <table class="table table-bordered">
           <thead>
             <tr>
-              <th>S.NO</th>
-              <th scope="row">Lorem Ipsum</th>
-              <th>Lorem Ipsum</th>
-              <th>Lorem Ipsum</th>
-              <th>Lorem Ipsum</th>
-              <th>Lorem Ipsum</th>
-              <th class="text-center">Lorem Ipsum</th>
-              <th class="text-center">Lorem Ipsum</th>
-              <th class="text-center">Lorem Ipsum</th>
-              <th scope="row" class="text-center">Lorem Ipsum</th>
-              <th scope="row">Lorem Ipsum</th>
+              <th>Name</th>
+              <th scope="row">Role</th>
+              <th class="text-center">City</th>
             </tr>
           </thead>
-          
           <tbody>
             <tr>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
+              <td>TBD</td>
+              <td>Exam Co-ordinator</td>
+              <td>Krishnagiri</td>
             </tr>
-            
             <tr>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
-              <td>Lorem Ipsum</td>
+              <td>TBD</td>
+              <td>Exam Co-ordinator</td>
+              <td>Coimbatore</td>
+            </tr>
+            <tr>
+              <td>TBD</td>
+              <td>Exam Co-ordinator</td>
+              <td>Tiruchirapalli</td>
+            </tr>
+            <tr>
+              <td>TBD</td>
+              <td>Exam Co-ordinator</td>
+              <td>Chengelpet</td>
+            </tr>
+            <tr>
+              <td>TBD</td>
+              <td>Exam Co-ordinator</td>
+              <td>Madurai</td>
+            </tr>
+            <tr>
+              <td>TBD</td>
+              <td>Chief examiner - Dance</td>
+              <td>Krishnagiri</td>
+            </tr>
+            <tr>
+              <td>TBD</td>
+              <td>Chief examiner - Vocals</td>
+              <td>Chengelpet</td>
             </tr>
           </tbody>
 	      </table>
       </div>
     </div>
-</div> -->
+</div>
 
 </div>
 <div class="clearfix"></div>
