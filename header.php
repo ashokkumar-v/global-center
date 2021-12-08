@@ -17,7 +17,9 @@
         <a href="downloads.html">Downloads</a>
         </div>-->
         <div class="phone-num">
-        +91 95660 44376, +91-86829 01099
+        +91 95660 44376
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+          +91-86829 01099
         </div>
       </div>
     </div>
