@@ -43,6 +43,9 @@
 <p><a href="https://www.griffincollege.org.uk/exam-dates/" target="_blank">more info</a></p>
 
 </div>
+<img src="img/flyers/GCL_Flyer1.jpeg" alt="Qualifications" width="600" class="img-responsive"/>
+<img src="img/flyers/GCL_Flyer2.jpeg" alt="Qualifications" width="600" class="img-responsive"/>
+<img src="img/flyers/GCL_Flyer3.jpeg" alt="Qualifications" width="600" class="img-responsive"/>
 
 </div>
 
