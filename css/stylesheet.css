@@ -1,5 +1,6 @@
 @charset "utf-8";
 @import './faculty.css';
+@import './modal.css';
 /* CSS Document */
 body{font-family: 'Dosis', sans-serif;}
 @font-face {

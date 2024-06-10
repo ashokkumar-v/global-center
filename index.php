@@ -7,6 +7,13 @@
 </head>
 <body>
 <?php include "header.php";?>
+
+<!-- The Modal -->
+<div id="myModal" class="my-modal">
+  <span class="modal-close-btn">Close&nbsp;&nbsp;X</span>
+  <img class="modal-content" src="images/splash.png" alt="Information">
+</div>
+
 <div class="slider-portion">
   <div div class="slider1">
     <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
